@@ -5,11 +5,11 @@ These scripts underlie an in-progress human behavioral experiment being conducte
 
 ## Setup
 
-* To enable running experiment, add a directory named `jsPsych` [1] containing the jsPsych==6.3.0 files to `experiment/js/`. 
+* To enable running experiment, add a directory named `jsPsych` containing jsPsych==6.3.0 files (available at `https://www.jspsych.org` [1]) to `experiment/js/`. 
 
 * To enable running tests (written in Jest), navigate to `generate_experiment_specs`, install Node and npm, and run `npm install`. To run tests: `npm test`.
 
-* To support running the experiment with the "gst" images, copy the stimuli from https://github.com/rgeirhos/texture-vs-shape (do not preserve the subdirectory structure).
+* To support running the experiment with the "gst" images, copy the stimuli from `https://github.com/rgeirhos/texture-vs-shape` (do not preserve the subdirectory structure).
 
 * Gst scramble masks are available upon request.
 
