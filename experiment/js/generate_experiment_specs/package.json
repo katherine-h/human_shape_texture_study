@@ -1,0 +1,14 @@
+{
+  "name": "human_expt_specs",
+  "version": "1.0.0",
+  "description": "experiments",
+  "main": "generate_trial_specs.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
